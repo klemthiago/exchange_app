@@ -2,7 +2,7 @@
 
 # Currency Converter Web App
 
-*(Replace with an actual screenshot of your app)*
+![Currency Converter Screenshot](./src/assets/exchange_app.png)
 
 ## Overview
 
